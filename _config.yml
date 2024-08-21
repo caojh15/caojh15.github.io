@@ -24,7 +24,7 @@ author:
   avatar           : "profilev2.png"
   name             : "Jiahao Cao"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Research Professor, Institute for Network Sciences and Cyberspace, Tsinghua University"
+  bio              : "Assistant Research Professor" "Institute for Network Sciences and Cyberspace, Tsinghua University"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
