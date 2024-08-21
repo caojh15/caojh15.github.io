@@ -11,8 +11,8 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
 
-  - title: "Professional Services"
-    url: /talks/    
+# - title: "Professional Services"
+#    url: /talks/    
 
   - title: "CV"
     url: /cv/
@@ -23,8 +23,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Other"
-    url: /markdown/
+  - title: "Professional Services"
+    url: /service/
     
   - title: "Guide"
     url: /markdown/
