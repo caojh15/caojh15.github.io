@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: ""
 author_profile: true
 ---
 
@@ -8,3 +7,4 @@ author_profile: true
 -3
 -4
 -t
+title: "Re"
