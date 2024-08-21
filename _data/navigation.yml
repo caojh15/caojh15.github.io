@@ -7,6 +7,8 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "Professional Services"
+    url: /404/
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -23,8 +25,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Professional Services"
-    url: /service/
+
     
   - title: "Guide"
     url: /markdown/
