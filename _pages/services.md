@@ -9,7 +9,7 @@ author_profile: true
 * ACM Member
 * CCF Member
 
-# Program Committee Member
+# Technical Program Committee
 * IEEE Globecom, 2019~2024
 * ICPADS, 2024
 * ICDCS, 2024
