@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Education"
-permalink: /research/
+permalink: /education/
 author_profile: true
 ---
 -2015 to 2020: Ph.D. degree, Department of Computer Science & Technology, Tsinghua University
