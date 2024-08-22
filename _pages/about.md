@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Publications"
+title: "Selected Publications"
 author_profile: true
 redirect_from: 
   - /about/
