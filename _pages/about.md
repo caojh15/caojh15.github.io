@@ -18,3 +18,8 @@ His current interests mainly focus on the following domains:
 - High-Performance Network Transmission Optimization (e.g., RDMA Transmission Optimization) 
 
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
+
+# News
+- [ToN] Aug. 2024, our routing leak detection paper accepted by ToN! Congratulations, Jiang Li!
+- [ICNP] Aug. 2024, our RDMA Parameter Optimation paper accepted by ICNP! Congratulations, Ziteng Chen!
+- [TIFS] Jul. 2024, our TCP traffic obfuscation paper accepted by TIFS! Congratulations, Renjie Xie!
