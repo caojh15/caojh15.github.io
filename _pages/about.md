@@ -20,7 +20,9 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
-- [CCS] Aug. 2024, our few-shot routing threat detection paper accepted by CCS'24 posters. Congratulations, Yizhi Li and Jiang Li!
+- [NDSS'25] Aug. 2024, our smart contract reentrancy detection accepted by NDSS'25. Congratulations, Qiyang Song!
+- [ICNP'24] Aug. 2024, our automatic network protocol fingerprint discovery paper accepted by ICNP'24 posters. Congratulations, Yuxi Zhu and Hanyi Peng!
+- [CCS'24] Aug. 2024, our few-shot routing threat detection paper accepted by CCS'24 posters. Congratulations, Yizhi Li and Jiang Li!
 - [ToN] Aug. 2024, our routing leak detection paper accepted by ToN! Congratulations, Jiang Li!
-- [ICNP] Aug. 2024, our RDMA Parameter Optimation paper accepted by ICNP! Congratulations, Ziteng Chen!
+- [ICNP'24] Aug. 2024, our RDMA Parameter Optimation paper accepted by ICNP'24! Congratulations, Ziteng Chen!
 - [TIFS] Jul. 2024, our TCP traffic obfuscation paper accepted by TIFS! Congratulations, Renjie Xie!
