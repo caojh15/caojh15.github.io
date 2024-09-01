@@ -19,7 +19,7 @@ author_profile: true
 12. **Jiahao Cao**, Qi Li, Renjie Xie, Kun Sun, Guofei Gu, Mingwei Xu, and Yuan Yang. The CrossPath Attack: Disrupting the SDN Control Channel via Shared Links. In Proc. of the 28th USENIX Security Symposium (**USENIX Security**), Santa Clara, CA, USA, August 2019 (Student Travel Grant, First Round Acceptance Ratio: 9.8%=25/254, Total Acceptance Ratio:15.27%=113/740, CCF A,  top conference in Network and Information Security)
 
 ## Papers in 2025 
-1. Qiyang Song, Heqing Huang, Xiaoqi Jia, Yuanbo Xie, **Jiahao Cao**. Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection. In Proc. of the Network and Distributed System Security Symposium  (**NDSS**), San Diego, CA, USA, February 23–28, 2025 (CCF-A)
+1. Qiyang Song, Heqing Huang, Xiaoqi Jia, Yuanbo Xie, **Jiahao Cao**. Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection. In Proc. of the Network and Distributed System Security Symposium  (**NDSS**), San Diego, CA, USA, February 23–28, 2025 (CCF-A, top conference in Network and Information Security)
 
 ## Papers in 2024
 1. Yuxi Zhu, Hanyi Peng, **Jiahao Cao\***, Renjie Xie, Xinda Wang, Mingwei Xu*, Jianping Wu. Poster: Automatic Network Protocol Fingerprint Discovery with Difference-Guided Fuzzing. In ICNP'24 Posters and Demos, Charleroi, Belgium, October 28-31, 2024 
