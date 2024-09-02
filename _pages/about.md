@@ -20,7 +20,7 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
-- [SecureComm'24] Sep. 2024, our vulnerability detection via semantic-preserving data augmentation paper accpeted by SecureComm'24. Congratulations, Weiliang!
+- [SecureComm'24] Sep. 2024, our semantic-preserving vulnerability detection paper accpeted by SecureComm'24. Congratulations, Weiliang!
 - [NDSS'25] Aug. 2024, our smart contract reentrancy detection accepted by NDSS'25. Congratulations, Qiyang!
 - [ToN] Aug. 2024, our routing leak detection paper accepted by ToN! Congratulations, Jiang!
 - [ICNP'24] Aug. 2024, our RDMA Parameter Optimation paper accepted by ICNP'24! Congratulations, Ziteng!
