@@ -10,6 +10,7 @@ author_profile: true
 * CCF Member
 
 # Technical Program Committee
+* IEEE ComSoc GIIS'25 (2025 Global Information Infrastructure and Networking Symposium (GIIS))
 * IEEE Globecom, 2019~2024
 * ICPADS, 2024
 * ICDCS, 2024
