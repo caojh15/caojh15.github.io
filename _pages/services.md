@@ -32,3 +32,8 @@ author_profile: true
 * IEEE Access
 * SCIENCE CHINA Information Sciences
 * International Journal of Security and Networks (IJSN)
+* INFOCOM 2020
+* NDSS 2020
+* DSN 2020
+* AsiaCCS 2020
+* ACM CCS 2019
