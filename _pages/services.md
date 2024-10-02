@@ -20,7 +20,7 @@ author_profile: true
 * USENIX Security Symposium, 2023, 2024
 
 # Reviewer
-* USENIX Security '24 Reviewer
+* USENIX Security 2024
 * Transactions on Dependable and Secure Computing (TDSC)
 * IEEE Journal on Selected Areas in Communications (JSAC)
 * IEEE Transactions on Information Forensics and Security (TIFS)
