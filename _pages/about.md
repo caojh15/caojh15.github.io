@@ -20,6 +20,7 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
+- [CCS TPC] Oct. 2024, I was invited to serve in the TPC of ACM CCS 2025.
 - [SecureComm'24] Sep. 2024, our semantic-preserving vulnerability detection paper accpeted by SecureComm'24. Congratulations, Weiliang!
 - [NDSS'25] Aug. 2024, our smart contract reentrancy detection accepted by NDSS'25. Congratulations, Qiyang!
 - [ToN] Aug. 2024, our routing leak detection paper accepted by ToN! Congratulations, Jiang!
