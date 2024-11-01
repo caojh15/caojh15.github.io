@@ -28,6 +28,7 @@ author_profile: true
 * IEEE/ACM Transactions on Networking (ToN)
 * Computers & Security
 * IEEE Transactions on Network and Service Management (TNSM)
+* Journal of Network and Computer Applications (JNCA)
 * Future Generation Computer Systems (FGCS)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * IEEE Access
