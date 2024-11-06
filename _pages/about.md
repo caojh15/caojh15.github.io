@@ -14,8 +14,7 @@ He is broadly interested in security research related to networking protocols an
 
 His current interests mainly focus on the following domains: 
 - Network Traffic Analysis (e.g., VPN Identification, Network Attack Detection)
-- Network Protocol Security (e.g., discovering network protocol vulnerabilities through fuzzing or manual analysis)
-- High-Performance Network Transmission Optimization (e.g., RDMA Transmission Optimization) 
+- Network Protocol Security (e.g., RDMA/BGP/OpenFlow Vulnerability Discovery)
 
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
