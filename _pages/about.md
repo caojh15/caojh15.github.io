@@ -21,7 +21,7 @@ His current interests mainly focus on the following domains:
 
 # News
 - [KSEM'25 TPC] Apr. 2025, I was invited to serve on the technical program committee for KSEM 2025!
-- [IWQoS'25 TPC] Mar. 2025, I was invited to serve on the technical program committee for IEEE IWQoS 2025!
+- [IWQoS'25 TPC] Mar. 2025, I was invited to serve on the technical program committee for IEEE/ACM IWQoS 2025!
 - [Globecom'25 TPC] Feb. 2025, I was invited to serve on the technical program committee for IEEE Globecom 2025!
 - [INFOCOM'25] Dec. 2024, our botnet flow detection paper accpeted by INFOCOM'25. Congratulations, Xuejiao!
 - [ToN] Nov. 2024, our SDN covert timing channel paper accepted by ToN! Congratulations, Yixiong!
