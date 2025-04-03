@@ -10,11 +10,12 @@ author_profile: true
 * CCF Member
 
 # Technical Program Committee
+* IEEE/ACM IWQoS 2025
 * IEEE ComSoc GIIS'25 (2025 Global Information Infrastructure and Networking Symposium (GIIS))
 * IEEE Globecom, 2019~2025
 * ICPADS, 2024
 * ICDCS, 2024
-* KSEM, 2022~2024
+* KSEM, 2022~2025
 
 # Artifact Evaluation Committee
 * USENIX Security Symposium, 2023, 2024
