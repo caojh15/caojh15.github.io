@@ -20,6 +20,8 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
+- [KSEM'25 TPC] Apr. 2025, I was invited to serve on the technical program committee for KSEM 2025!
+- [IWQoS'25 TPC] Mar. 2025, I was invited to serve on the technical program committee for IEEE IWQoS 2025!
 - [Globecom'25 TPC] Feb. 2025, I was invited to serve on the technical program committee for IEEE Globecom 2025!
 - [INFOCOM'25] Dec. 2024, our botnet flow detection paper accpeted by INFOCOM'25. Congratulations, Xuejiao!
 - [ToN] Nov. 2024, our SDN covert timing channel paper accepted by ToN! Congratulations, Yixiong!
