@@ -13,13 +13,14 @@ Jiahao Cao is an Assistant Research Professor at the Institute for Network Scien
 He is broadly interested in security research related to networking protocols and systems. *He has published many papers in top-tier conferences and journals such as NDSS, ACM CCS, USENIX Security, INFOCOM, TIFS, ToN*. Additionally, he has discovered numerous vulnerabilities in various networking systems, many of which have been assigned CVE, CNVD, or CNNVD numbers, affecting a wide range of switches and routers. He was awarded the *ACM SIGSAC China Doctoral Dissertation Award* (2021), recognized as a *Shuimu Tsinghua Scholar* (2021), named an Excellent Ph.D. Graduate in the Department of CST at Tsinghua University (2020), and earned the *Best Paper Award* at EAI SecureComm 2017. 
 
 His current interests mainly focus on the following domains: 
-- Network Traffic Analysis (e.g., VPN Identification, Network Attack Detection)
+- Network Traffic Analysis (e.g., VPN/Censorship Identification, Network Attack Detection)
 - Network Protocol Security (e.g., RDMA/BGP/OpenFlow Vulnerability Discovery through Fuzzing or Manual Analysis)
 
 
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
+- [APNet'25] Apr. 2025, our ISP de-peering analysis paper accepted by APNet'25. Congratulations, Liming!
 - [KSEM'25 TPC] Apr. 2025, I was invited to serve on the technical program committee for KSEM 2025!
 - [IWQoS'25 TPC] Mar. 2025, I was invited to serve on the technical program committee for IEEE/ACM IWQoS 2025!
 - [Globecom'25 TPC] Feb. 2025, I was invited to serve on the technical program committee for IEEE Globecom 2025!
