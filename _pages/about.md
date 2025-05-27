@@ -21,6 +21,7 @@ His current interests mainly focus on the following domains:
 
 # News
 - [ACM CCS'25 AEC] May 2025, I was invited to serve on the artifact evaluation committee for ACM CCS 2025!
+- [IWQoS'25] May 2025, two papers on heavy hitter detection and geoblocking measurement accepted by IWQoS'25! Congratulations, Xirui and Yuying!
 - [APNet'25] Apr. 2025, our ISP de-peering analysis paper accepted by APNet'25. Congratulations, Liming!
 - [KSEM'25 TPC] Apr. 2025, I was invited to serve on the technical program committee for KSEM 2025!
 - [IWQoS'25 TPC] Mar. 2025, I was invited to serve on the technical program committee for IEEE/ACM IWQoS 2025!
