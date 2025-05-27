@@ -18,6 +18,7 @@ author_profile: true
 * KSEM, 2022~2025
 
 # Artifact Evaluation Committee
+* ACM CCS 2025
 * USENIX Security Symposium, 2023, 2024
 
 # Reviewer
