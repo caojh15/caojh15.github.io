@@ -14,13 +14,13 @@ He is broadly interested in security research related to networking protocols an
 
 His current interests mainly focus on the following domains: 
 - Network Traffic Analysis (e.g., VPN/Censorship Identification, Network Attack Detection)
-- Network Protocol Security (e.g., RDMA/BGP/OpenFlow Vulnerability Discovery through Fuzzing or Manual Analysis)
+- Network Protocol Security (e.g., RDMA/BGP/RPKI/OpenFlow Vulnerability Discovery through Fuzzing or Manual Analysis)
 
 
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
-- [SIGCOMM'25] June. 2025, our RPKI fuzzing paper was accepted by SIGCOMM'25 Posters and Demos. Congratulations to Zizhi, an undergraduate student!
+- [SIGCOMM'25] June 2025, our RPKI validator fuzzing paper was accepted by SIGCOMM'25 Posters and Demos. Congratulations to Zizhi, an undergraduate student!
 - [ISPA'25 TPC] June 2025, I was invited to serve on the technical program committee for IEEE ISPA 2025!
 - [ACM CCS'25 AEC] May 2025, I was invited to serve on the artifact evaluation committee for ACM CCS 2025!
 - [IWQoS'25] May 2025, two papers on heavy hitter detection and geoblocking measurement accepted by IWQoS'25! Congratulations, Xirui and Yuying!
