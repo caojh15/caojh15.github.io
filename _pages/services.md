@@ -25,6 +25,7 @@ author_profile: true
 # Reviewer
 * USENIX NSDI 2025
 * USENIX Security 2024
+* Big Data Mining and Analytics
 * Transactions on Dependable and Secure Computing (TDSC)
 * IEEE Journal on Selected Areas in Communications (JSAC)
 * IEEE Transactions on Information Forensics and Security (TIFS)
