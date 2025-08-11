@@ -11,6 +11,7 @@ author_profile: true
 
 # Technical Program Committee
 * IEEE/ACM IWQoS 2025
+* ICPADS 2025
 * IEEE ISPA 2025
 * IEEE ComSoc GIIS'25 (2025 Global Information Infrastructure and Networking Symposium (GIIS))
 * IEEE Globecom, 2019~2025
