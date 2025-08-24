@@ -20,6 +20,7 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
+- [ICNP'25] August 2025, our ROV measurement paper was accepted by ICNP'25 Posters and Demos.  Congratulations to Zirui, an undergraduate student!
 - [TIFS] August 2025, our vulnerable path-guided greybox fuzzing paper was accepted by IEEE TIFS. Congratulations, Zhechao!
 - [ICPADS'25] August 2025,  I was invited to serve on the technical program committee for ICPADS 2025!
 - [ICNP'25] July 2025, our QUIC attack paper was accepted by ICNP'25. Congratulations, Shaorui!
