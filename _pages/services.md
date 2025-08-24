@@ -23,6 +23,9 @@ author_profile: true
 * ACM CCS 2025
 * USENIX Security Symposium, 2023, 2024
 
+# Editor
+* Guest Editor, *Electronics* (JCR Q1), Special Issue: *Secure Networking: Advances in Network Attack Detection and Protocol Security*, 2025
+
 # Reviewer
 * USENIX NSDI 2025
 * USENIX Security 2024
