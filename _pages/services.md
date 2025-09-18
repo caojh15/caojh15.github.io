@@ -13,7 +13,7 @@ author_profile: true
 * IEEE/ACM IWQoS 2025
 * ICPADS 2025
 * IEEE ISPA 2025
-* IEEE ComSoc GIIS'25 (2025 Global Information Infrastructure and Networking Symposium (GIIS))
+* IEEE ComSoc GIIS (Global Information Infrastructure and Networking Symposium (GIIS)), 2025~2026
 * IEEE Globecom, 2019~2025
 * ICPADS, 2024
 * ICDCS, 2024
