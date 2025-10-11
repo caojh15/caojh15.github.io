@@ -8,6 +8,8 @@ author_profile: true
 * IEEE Member
 * ACM Member
 * CCF Member
+* China Institute of Communications (CIC), Senior Member
+* Chinese Institute of Electronics (CIE), Member
 
 # Technical Program Committee
 * IEEE/ACM IWQoS 2025
