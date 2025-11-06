@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Selected Publications ([Google Scholar](https://scholar.google.com.hk/citations?user=eDrMOVkAAAAJ&hl))
-1. Ziteng Chen, Menghao Zhang, **Jiahao Cao**, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu*. Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds. In Proc. of the Network and Distributed System Security Symposium  (**NDSS**), San Diego, CA, USA, February 23–27, 2026 (CCF-A, top conference in Network and Information Security)
+1. Ziteng Chen, Menghao Zhang, **Jiahao Cao***, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu*. Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds. In Proc. of the Network and Distributed System Security Symposium  (**NDSS**), San Diego, CA, USA, February 23–27, 2026 (CCF-A, top conference in Network and Information Security)
 2. Zhechao Lin, **Jiahao Cao\***, Xinda Wang, Renjie Xie, Yuxi Zhu, Xiao Li, Qi Li, Yangyang Wang, Mingwei Xu*. VPGFuzz: Vulnerable Path-Guided Greybox Fuzzing. To appear in IEEE Transactions on Information Forensics and Security (**TIFS**). (CCF-A, top journal in Network and Information Security)
 3. Xuejiao Luo, Pengcheng Wei, Wenyin Liu*, **Jiahao Cao\***, Jiang Li, and Binbin Chen. GM-BFD: A Generalizable Multi-view Framework for Botnet Flow Detection. IEEE International Conference on Computer Communications (**INFOCOM**), London, United Kingdom, May 19-22, 2025. (CCF A, top conference in Computer Networks)
 4. Qiyang Song, Heqing Huang, Xiaoqi Jia, Yuanbo Xie, **Jiahao Cao**. Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection. In Proc. of the Network and Distributed System Security Symposium  (**NDSS**), San Diego, CA, USA, February 23–28, 2025 (CCF-A, top conference in Network and Information Security)
@@ -23,7 +23,7 @@ author_profile: true
 16. **Jiahao Cao**, Qi Li, Renjie Xie, Kun Sun, Guofei Gu, Mingwei Xu, and Yuan Yang. The CrossPath Attack: Disrupting the SDN Control Channel via Shared Links. In Proc. of the 28th USENIX Security Symposium (**USENIX Security**), Santa Clara, CA, USA, August 2019 (Student Travel Grant, First Round Acceptance Ratio: 9.8%=25/254, Total Acceptance Ratio:15.27%=113/740, CCF A,  top conference in Network and Information Security)
 
 ## Papers in 2026
-1. Ziteng Chen, Menghao Zhang, **Jiahao Cao**, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu*. Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds. In Proc. of the Network and Distributed System Security Symposium  (**NDSS**), San Diego, CA, USA, February 23–27, 2026 (CCF-A, top conference in Network and Information Security)
+1. Ziteng Chen, Menghao Zhang, **Jiahao Cao***, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu*. Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds. In Proc. of the Network and Distributed System Security Symposium  (**NDSS**), San Diego, CA, USA, February 23–27, 2026 (CCF-A, top conference in Network and Information Security)
 
 ## Papers in 2025 
 1. Zhechao Lin, **Jiahao Cao\***, Xinda Wang, Renjie Xie, Yuxi Zhu, Xiao Li, Qi Li, Yangyang Wang, Mingwei Xu*. VPGFuzz: Vulnerable Path-Guided Greybox Fuzzing. To appear in IEEE Transactions on Information Forensics and Security (**TIFS**). (CCF-A, top journal in Network and Information Security) 
