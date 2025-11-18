@@ -20,13 +20,14 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
+- [ACISP'26 Publicity Chair] November 2025,  I was invited to serve as the publicity chair for ACISP 2026!
 - [NDSS'26] October 2025, our RDMA access control paper was accepted by NDSS'26. Congratulations, Ziteng!
 - [ICNP'25] August 2025, our ROV measurement paper was accepted by ICNP'25 Posters and Demos.  Congratulations to Zirui, an undergraduate student!
 - [TIFS] August 2025, our vulnerable path-guided greybox fuzzing paper was accepted by IEEE TIFS. Congratulations, Zhechao!
-- [ICPADS'25] August 2025,  I was invited to serve on the technical program committee for ICPADS 2025!
+- [ICPADS'25 TPC] August 2025,  I was invited to serve on the technical program committee for ICPADS 2025!
 - [ICNP'25] July 2025, our QUIC attack paper was accepted by ICNP'25. Congratulations, Shaorui!
 - [SIGCOMM'25] June 2025, our RPKI validator fuzzing paper was accepted by SIGCOMM'25 Posters and Demos. Congratulations to Zizhi, an undergraduate student!
-- [ISPA'25 TPC] June 2025, I was invited to serve on the technical program committee for IEEE ISPA 2025!
+- [ISPA'25 TPC] June 2025, I was invited to serve as the Publicity Chair for ACISP 2026!
 - [ACM CCS'25 AEC] May 2025, I was invited to serve on the artifact evaluation committee for ACM CCS 2025!
 - [IWQoS'25] May 2025, two papers on heavy hitter detection and geoblocking measurement accepted by IWQoS'25! Congratulations, Xirui and Yuying!
 - [APNet'25] Apr. 2025, our ISP de-peering analysis paper accepted by APNet'25. Congratulations, Liming!
