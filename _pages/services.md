@@ -23,7 +23,7 @@ author_profile: true
 
 # Artifact Evaluation Committee
 * ACM CCS 2025
-* USENIX Security Symposium, 2023, 2024
+* USENIX Security Symposium, 2023, 2024, 2026
   
 # Chair
 * Publicity Chair, The 31st Australasian Conference on Information Security and Privacy (ACISP 2026)
