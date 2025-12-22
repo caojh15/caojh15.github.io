@@ -26,7 +26,7 @@ author_profile: true
 1. Ziteng Chen, Menghao Zhang, **Jiahao Cao\***, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu*. Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds. In Proc. of the Network and Distributed System Security Symposium  (**NDSS**), San Diego, CA, USA, February 23–27, 2026 (CCF-A, top conference in Network and Information Security)
 
 ## Papers in 2025 
-1.Yuying Du, **Jiahao Cao\***, Junrui Xu, YangYang Wang, Renjie Xie, Jiang Li, Changliyun Liu, Mingwei Xu*. A Large-scale Measurement Study of Region-based Web Access Restrictions: The Case of China. To appear in Computers & Security. (CCF-B) 
+1. Yuying Du, **Jiahao Cao\***, Junrui Xu, YangYang Wang, Renjie Xie, Jiang Li, Changliyun Liu, Mingwei Xu*. A Large-scale Measurement Study of Region-based Web Access Restrictions: The Case of China. To appear in Computers & Security. (CCF-B) 
 2. Zhechao Lin, **Jiahao Cao\***, Xinda Wang, Renjie Xie, Yuxi Zhu, Xiao Li, Qi Li, Yangyang Wang, Mingwei Xu*. VPGFuzz: Vulnerable Path-Guided Greybox Fuzzing. To appear in IEEE Transactions on Information Forensics and Security (**TIFS**). (CCF-A, top journal in Network and Information Security) 
 3. Zizhi Shang, **Jiahao Cao\***, Zhechao Lin, Yi Liu, Mingwei Xu\*, Yangyang Wang, Jiang Li. POSTER: Fuzzing RPKI Validators with Semantic and
 Structural Awareness. In SIGCOMM Posters and Demos, Coimbra, Portugal, September 8-11, 2025. 
