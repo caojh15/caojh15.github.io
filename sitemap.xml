@@ -35,6 +35,13 @@
 </url>
 
 <url>
+ <loc>https://caojh15.github.io/projects/</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-09-02</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
  <loc>https://caojh15.github.io/education/</loc>
  <priority>0.3</priority>
  <lastmod>2024-09-02</lastmod>
