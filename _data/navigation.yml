@@ -13,6 +13,9 @@ main:
     
   - title: "Professional Services"
     url: /services/
+
+  - title: "Research Projects"
+    url: /projects/
     
   - title: "Education & Working Experience"
     url: /education/
