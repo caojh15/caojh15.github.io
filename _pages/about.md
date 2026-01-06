@@ -20,6 +20,7 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
+- [NSDI'26] December 2025, our large-scale DDoS Detection paper was accepted by NSDI'26! 
 - [Computers & Security] December 2025, our geoblocking measurement paper was accepted by Computers & Security. Congratulations, Yuying!
 - [USENIX Security'26 AEC]  November 2025, I was invited to serve on the artifact evaluation committee for USENIX Security 2026!
 - [ACISP'26 Publicity Chair] November 2025,  I was invited to serve as the publicity chair for ACISP 2026!
