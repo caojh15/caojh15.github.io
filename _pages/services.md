@@ -12,6 +12,7 @@ author_profile: true
 * Chinese Institute of Electronics (CIE), Member
 
 # Technical Program Committee
+* USENIX VehicleSec 2026 Poster/Demo PC
 * IEEE/ACM IWQoS 2025
 * ICPADS 2025
 * IEEE ISPA 2025
