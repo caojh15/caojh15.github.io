@@ -43,6 +43,7 @@ author_profile: true
 * IEEE Transactions on Information Forensics and Security (TIFS)
 * IEEE/ACM Transactions on Networking (ToN)
 * Computers & Security
+* Chinese Journal of Computers（计算机学报）：2026
 * IEEE Transactions on Network and Service Management (TNSM)
 * Journal of Network and Computer Applications (JNCA)
 * Future Generation Computer Systems (FGCS)
