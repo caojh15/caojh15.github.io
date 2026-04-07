@@ -12,6 +12,7 @@ author_profile: true
 * Chinese Institute of Electronics (CIE), Member
 
 # Technical Program Committee
+* ESORICS 2026
 * RAID 2026
 * USENIX VehicleSec 2026 Poster/Demo PC
 * IEEE/ACM IWQoS 2025
