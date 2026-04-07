@@ -20,6 +20,7 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
+- [ESORICS'26 TPC] Apr. 2026, I was invited to serve on the technical program committee for ESORICS 2026!
 - [RAID'26 TPC] Mar. 2026, I was invited to serve on the technical program committee for RAID 2026!
 - [USENIX VehicleSec'26 TPC] Jan. 2026, I was invited to serve on the Poster/Demo PC of USENIX VehicleSec 2026!
 - [NSDI'26] December 2025, our large-scale DDoS Detection paper was accepted by NSDI'26! 
