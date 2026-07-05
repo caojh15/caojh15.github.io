@@ -20,6 +20,7 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
+- [ACM CCS'26 AEC]  May 2026, I was invited to serve on the artifact evaluation committee for ACM CCS 2026!
 - [ESORICS'26 TPC] Apr. 2026, I was invited to serve on the technical program committee for ESORICS 2026!
 - [RAID'26 TPC] Mar. 2026, I was invited to serve on the technical program committee for RAID 2026!
 - [USENIX VehicleSec'26 TPC] Jan. 2026, I was invited to serve on the Poster/Demo PC of USENIX VehicleSec 2026!
