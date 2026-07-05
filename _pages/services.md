@@ -25,7 +25,7 @@ author_profile: true
 * KSEM, 2022~2025
 
 # Artifact Evaluation Committee
-* ACM CCS 2025
+* ACM CCS 2025, 2026
 * USENIX Security Symposium, 2023, 2024, 2026
   
 # Chair
