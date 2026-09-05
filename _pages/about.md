@@ -20,6 +20,9 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
+- [CCS'26] August 2026, our paper on unified alert representation was accepted by ACM CCS'26 Posters. Congratulations, Xingyue!
+- [ICDM'26] August 2026, our cybersecurity HIN paper was accepted by ICDM'26. Congratulations, Zijing!
+- [USENIX Security'27 TPC] July 2026, I was invited to serve on the technical program committee for USENIX Security 2027!
 - [ACM CCS'26 AEC]  May 2026, I was invited to serve on the artifact evaluation committee for ACM CCS 2026!
 - [ESORICS'26 TPC] Apr. 2026, I was invited to serve on the technical program committee for ESORICS 2026!
 - [RAID'26 TPC] Mar. 2026, I was invited to serve on the technical program committee for RAID 2026!
