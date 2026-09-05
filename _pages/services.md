@@ -12,6 +12,7 @@ author_profile: true
 * Chinese Institute of Electronics (CIE), Member
 
 # Technical Program Committee
+* USENIX Security 2027 
 * ESORICS 2026
 * RAID 2026
 * USENIX VehicleSec 2026 Poster/Demo PC
