@@ -20,6 +20,7 @@ His current interests mainly focus on the following domains:
 **He is always looking for highly motivated postdocs, students, and research interns to join the group! If you're interested, feel free to reach out via email (caojh2021@tsinghua.edu.cn).**
 
 # News
+- [TIFS] Sep. 2026, our paper on BGP route origin validation was accepted by IEEE TIFS. 
 - [CCS'26] August 2026, our paper on unified alert representation was accepted by ACM CCS'26 Posters. Congratulations, Xingyue!
 - [ICDM'26] August 2026, our cybersecurity HIN paper was accepted by ICDM'26. Congratulations, Zijing!
 - [USENIX Security'27 TPC] July 2026, I was invited to serve on the technical program committee for USENIX Security 2027!
