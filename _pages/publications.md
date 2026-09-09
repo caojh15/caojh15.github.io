@@ -25,7 +25,7 @@ author_profile: true
 ## Papers in 2026
 1. Xingyue Wang, **Jiahao Cao\***, Renjie Xie, Haoyang Ding, Zhan Shu, Guang Cheng, Mingwei Xu. Poster: UniAlert: Cost-Efficient Unified Representation of 
   Multi-Source Heterogeneous Alert Logs with LLMs. In ACM CCS Posters, The Hague, The Netherlands, November 15-19, 2026.
-2. Zijing Xu, Tiancheng Hu, Yangyang Wang, **Jiahao Cao**, and Mingwei Xu. GRASP: Authority-Grounded Structural Mining for LLM Reasoning over a Cybersecurity HIN. In Proc. of the IEEE International Conference on Data Mining (ICDM), Shenyang, China, November 12-15, 2026 (CCF-B, AC Rate: 19.94%, 392/1966)
+2. Zijing Xu, Tiancheng Hu, Yangyang Wang*, **Jiahao Cao\***, and Mingwei Xu. GRASP: Authority-Grounded Structural Mining for LLM Reasoning over a Cybersecurity HIN. In Proc. of the IEEE International Conference on Data Mining (ICDM), Shenyang, China, November 12-15, 2026 (CCF-B, AC Rate: 19.94%, 392/1966)
 3. Ziteng Chen, Menghao Zhang, **Jiahao Cao\***, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu*. Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds. In Proc. of the Network and Distributed System Security Symposium  (**NDSS**), San Diego, CA, USA, February 23–27, 2026 (CCF-A, top conference in Network and Information Security)
 4. Yunming Xiao, Xijun Luo, Youliang Jiang, Aike Wang, Hu Chen, Zhibin Zhou, Heng Yu, **Jiahao Cao**, Yong Jiang, Jilong Wang, Mingwei Xu, Yan Chen, Congcong Miao. DDoS Detection at the Scale of One Hundred Tbps. In Proc. of the 23rd USENIX Symposium on Networked Systems Design and Implementation (**NSDI**) , Renton, WA, USA, May 4–6, 2026 (CCF-A, top conference in Computer Networks)
 
