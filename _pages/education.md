@@ -16,6 +16,7 @@ author_profile: true
 - 2020 to 2021: Research Assistant, Department of Computer Science and Technology, Tsinghua University
 
 # Awards & Honors
+- Young Elite Scientists Sponsorship Program by the Chinese Institute of Electronics (CIE), 2026 (中国电子学会青年人才托举工程)
 - ACM SIGSAC China Doctoral Dissertation Award, 2021 (ACM SIGSAC中国优博奖)
 - Shuimu Tsinghua Scholar, 2021 (清华大学“水木学者”)
 - Excellent Ph.D. Graduate in Department of CST, Tsinghua University, 2020 （清华大学计算机系优秀博士毕业生）
